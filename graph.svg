@@ -3,9 +3,9 @@
 <svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 841.9 595.3" style="enable-background:new 0 0 841.9 595.3;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#F7EC66;stroke:#000000;stroke-miterlimit:10;}
+	.st0{fill:url(#SVGID_1_);stroke:#000000;stroke-miterlimit:10;}
 	.st1{fill:none;stroke:#000000;stroke-miterlimit:10;}
-	.st2{font-family:'MyriadPro-Regular';}
+	.st2{font-family:'ArialMT';}
 	.st3{font-size:20.7391px;}
 	.st4{fill:none;stroke:#9F9F9F;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
 	.st5{fill:none;stroke:#404040;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
@@ -18,6 +18,10 @@
 	.st12{fill:#DFDFDF;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
 	.st13{stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
 </style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="76.8" y1="277" x2="751.5" y2="277">
+	<stop  offset="0" style="stop-color:#993333"/>
+	<stop  offset="0.5561" style="stop-color:#990000"/>
+</linearGradient>
 <rect x="76.8" y="88.1" class="st0" width="674.7" height="377.8"/>
 <g>
 	<line class="st1" x1="157.1" y1="435" x2="599.5" y2="435"/>
@@ -32,8 +36,6 @@
 			<line class="st1" x1="536.3" y1="435" x2="536.3" y2="429.2"/>
 			<line class="st1" x1="599.5" y1="435" x2="599.5" y2="429.2"/>
 		</g>
-		<g>
-		</g>
 	</g>
 </g>
 <g>
@@ -43,7 +45,7 @@
 		<text transform="matrix(1 0 0 1 128.8848 349.0811)" class="st2 st3">10</text>
 		<text transform="matrix(1 0 0 1 128.8848 302.2109)" class="st2 st3">15</text>
 		<text transform="matrix(1 0 0 1 128.8848 255.3398)" class="st2 st3">20</text>
-		<text transform="matrix(1 0 0 1 128.8848 208.4692)" class="st2 st3">25</text>
+		<text transform="matrix(1 0 0 1 128.8848 208.4691)" class="st2 st3">25</text>
 	</g>
 	<line class="st1" x1="157.1" y1="435" x2="157.1" y2="200.7"/>
 	<g>
@@ -54,8 +56,6 @@
 			<line class="st1" x1="157.1" y1="294.4" x2="168.1" y2="294.4"/>
 			<line class="st1" x1="157.1" y1="247.6" x2="168.1" y2="247.6"/>
 			<line class="st1" x1="157.1" y1="200.7" x2="168.1" y2="200.7"/>
-		</g>
-		<g>
 		</g>
 	</g>
 </g>
@@ -179,8 +179,6 @@
 	</g>
 </g>
 <g>
-	<g>
-	</g>
 	<text transform="matrix(1 0 0 1 693.3799 220.1865)" class="st2 st3">5</text>
 	<text transform="matrix(1 0 0 1 693.3799 255.3398)" class="st2 st3">4</text>
 	<text transform="matrix(1 0 0 1 693.3799 290.4927)" class="st2 st3">3</text>
